@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab4_AND2</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="fpt_polytechnic">FPT POLYTECHNIC</string>
+</resources>
